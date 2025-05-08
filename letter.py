@@ -31,7 +31,7 @@ st.markdown("""
 
 st.markdown("""
 <p style='text-align: right; font-size: 16px; color: gray;'>
-2025/5/6<br>
+2025/5/8<br>
 엄마아빠를 <b style='color:crimson;'>매우매우매우 아주아주아주 너무너무너무</b> 사랑하는 아들 이태경 올림
 </p>
 """, unsafe_allow_html=True)
